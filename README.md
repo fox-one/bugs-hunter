@@ -2,7 +2,7 @@
 
 ## 什么是赏金猎人计划
 
-FoxOne 赏金计划为 Bug、Patch 的提交者提供 FOX 代币作为奖励。参与赏金计划的社区成员称之为“Fox.ONE 赏金猎人”，可以获得特殊的。查看“规则与奖励”章节了解更多。
+Fox.ONE 赏金计划为 Bug、Patch 的提交者提供 FOX 代币作为奖励。参与赏金计划的社区成员称之为“Fox.ONE 赏金猎人”，可以获得特殊的。查看“规则与奖励”章节了解更多。
 
 ## 规则与赏金
 
@@ -36,9 +36,9 @@ Bug 根据其重要程度，依据 [OWASP](https://www.owasp.org/index.php/OWASP
 如上分类的奖励如下：
 
 - **严重**: 50+ FC 和 50+ BOX
-- **高**: 10~50 FC 和 10~50 BOX
-- **中**: 5~10 FC 和 5~10 BOX
-- **低**: 1~5 FC 和 1~5 BOX
+- **高**: 10 - 50 FC 和 10 - 50 BOX
+- **中**: 5 - 10 FC 和 5 - 10 BOX
+- **低**: 1 - 5 FC 和 1 - 5 BOX
 
 ### 提交要求
 
@@ -50,12 +50,12 @@ Bug 根据其重要程度，依据 [OWASP](https://www.owasp.org/index.php/OWASP
 
 ### 提交方式
 
-1. 非隐私、安全类 Bug 通过官方 Issues 列表提交 https://github.com/fox-one/Issues/issues
+1. 非隐私、安全类 Bug 通过官方 Issues 列表提交 https://github.com/fox-one/bugs-hunter/issues
 2. 提交的 Bug 涉及安全问题或者隐私信息，通过 Email [bug@fox.one](mailto:bug@fox.one) 提交
 
 ## 免责声明
 
-赏金计划是一个社区实验性项目，它的目的是鼓励社区成员为 FoxOne 贡献自己的能力，不断改善 FoxOne，而非一个竞赛。作为一个实验项目，FoxOne 团队保留最终解释权和随时修改、取消项目规则的权力。最后，请参与者自行根据所在国家地区申报赏金税款，并确保参与行为遵循当地法律法规。
+赏金计划是一个社区实验性项目，它的目的是鼓励社区成员为 Fox.ONE 贡献自己的能力，不断改善 Fox.ONE，而非一个竞赛。作为一个实验项目，Fox.ONE 团队保留最终解释权和随时修改、取消项目规则的权力。最后，请参与者自行根据所在国家地区申报赏金税款，并确保参与行为遵循当地法律法规。
 
 ## 常见问题
 
@@ -65,7 +65,7 @@ Bug 根据其重要程度，依据 [OWASP](https://www.owasp.org/index.php/OWASP
 
 ### 怎么支付赏金？
 
-一旦 Issue 得到 FoxOne 团队确认，赏金会在五个工作日后使用 FOX 支付。为了接受赏金，你需要向我们提供你的 Referral Code（在“钱包 - 邀请朋友”中查看）
+一旦 Issue 得到 Fox.ONE 团队确认，赏金会在五个工作日后使用 FOX 支付。为了接受赏金，你需要向我们提供你的 Referral Code（在“钱包 - 邀请朋友”中查看）
 
 ### 我可以选择将我的赏金捐献给开源组织吗？
 
@@ -87,3 +87,29 @@ Bug 根据其重要程度，依据 [OWASP](https://www.owasp.org/index.php/OWASP
 
 - 中文群：7000100217
 - 英文群：7000101947
+
+## 开源组织
+
+### OpenSSL
+
+网站：https://www.openssl.org
+
+OpenSSL是用于传输层安全（TLS）和安全套接字层（SSL）协议的强大的商业级功能齐全的工具包。 它也是一个通用的密码学库。Fox.ONE 在网络协议层大量使用 OpenSSL 来保护用户的安全。
+
+### Numpy
+
+网站：http://www.numpy.org
+
+NumPy 是用Python进行科学计算的基础软件包。 Fox.ONE 使用 NumPy 实现定价模型，进行模型验证和回测。
+
+### Vue
+
+网站：https://vuejs.org
+
+Vue 是一个现代化 Web 开发框架和开发套件。Fox.ONE 使用 Vue 来搭建网站和程序。
+
+### webpack
+
+网站：https://webpack.js.org
+
+Webpack 是一套用于构建 Javascript App 的套件。Fox.ONE 使用 Webpack 构建网站和程序。
