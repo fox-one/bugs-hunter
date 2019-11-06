@@ -35,7 +35,7 @@ Bug 根据其重要程度，依据 [OWASP](https://www.owasp.org/index.php/OWASP
 
 如上分类的奖励如下：
 
-- **严重**: 200+ FC 和 50+ BOX
+- **严重**: 200+ FC 和 100+ BOX
 - **高**: 50 - 200 FC 和 20 - 100 BOX
 - **中**: 10 - 50 FC 和 5 - 20 BOX
 - **低**: 1 - 10 FC 和 1 - 5 BOX
