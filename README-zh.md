@@ -1,3 +1,5 @@
+[Switch to EN](https://github.com/fox-one/bugs-hunter/blob/master/README.md)
+
 # Fox.ONE 赏金猎人
 
 ## 什么是赏金猎人计划
