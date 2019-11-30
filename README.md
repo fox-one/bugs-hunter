@@ -1,3 +1,5 @@
+[切换到中文](https://github.com/fox-one/bugs-hunter/blob/master/README-zh.md)
+
 ## What's Fox.ONE BUG HUNTERS Program
 
 The Fox.ONE reward program provides FC (FOX Credits) and valuable token BOX as rewards to submitters of Bug and Patch. Community members who participate in the bounty program call it "Fox.ONE bounty hunters" and receive additional rewards and rewards.
