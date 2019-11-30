@@ -1,3 +1,5 @@
+# Fox.ONE BUG HUNTERS
+
 [切换到中文](https://github.com/fox-one/bugs-hunter/blob/master/README-zh.md)
 
 ## What's Fox.ONE BUG HUNTERS Program
