@@ -30,6 +30,7 @@ If applicable, add screenshots to help explain your problem.
  - Phone Device: [e.g. iPhone6]
  - Phone OS: [e.g. iOS8.1]
  - Phone Version [e.g. 22]
+ - Phone Language [English]
  - Fox.ONE Version [e.g. 2.7.0]
  - Fox.ONE Referral Code [goto "wallet - invite friends - copy"]
 
